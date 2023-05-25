@@ -13,4 +13,5 @@ Para acceder a ellos demanera rápida.
 
 ## **Mira mi calculadora Python**
 
-[Calculadora Python By TRG](Python/calculadora/index.py)
+[Calculadora Python By TRG (Instalador)](EXE/)
+[Código fuente](Python/calculadora/index.py)
