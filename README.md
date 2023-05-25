@@ -15,7 +15,7 @@ Para acceder a ellos demanera rápida.
 
 <div align=center>
   
-![Calculator Final](assets/calc final.png)
+![Calculator Final](assets/calc-final.png)
 </div>
 
 [Calculadora Python By TRG (Instalador)](EXE/)
