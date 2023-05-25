@@ -1,6 +1,6 @@
 # TRGamer_Python
 
-<div align="right">
+<div align="center">
 
 ![Python Logo](assets/python.svg)
 </div>
