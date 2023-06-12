@@ -74,3 +74,59 @@
 
 <div style="color:red;font-weight:900;font-family:monospace;letter-spacing:23px;text-align:center;margin-top:23px">By TRG (2023)</div>
 </div>
+
+# Nombre del Proyecto
+
+![Logo del Proyecto](ruta/al/logo.png)
+
+Breve descripción del proyecto.
+
+## Funcionalidades
+
+- Calculadora básica: Realiza operaciones aritméticas simples.
+- Cálculo de la raíz cuadrada de un cuadrado: Realiza el cálculo de la raíz cuadrada de un número al cuadrado.
+
+## Capturas de Pantalla
+
+
+
+## Instalación
+
+Describe aquí los pasos para instalar y ejecutar el programa en el sistema del usuario.
+
+1. Clona el repositorio: `git clone https://github.com/tu_usuario/tu_proyecto.git`
+2. Navega al directorio del proyecto: `cd tu_proyecto`
+3. Instala las dependencias: `pip install -r requirements.txt`
+4. Ejecuta el programa: `python ventanas.py`
+
+Asegúrate de tener instalada la última versión de Python y las dependencias necesarias.
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas colaborar en el proyecto, sigue los siguientes pasos:
+
+1. Haz un fork del repositorio.
+2. Crea una rama para tu contribución: `git checkout -b feature/nueva_funcionalidad`
+3. Realiza los cambios y commitea tus modificaciones: `git commit -m "Agrega una nueva funcionalidad"`
+4. Envía tus cambios al repositorio remoto: `git push origin feature/nueva_funcionalidad`
+5. Abre una pull request en GitHub y describe tus cambios en detalle.
+
+## Autor
+
+Tutos Rive Gamer
+tutosrivegamer@gmail.com
+
+## Agradecimientos
+
+Agradece aquí a las personas que te han apoyado en el desarrollo del proyecto, a la comunidad de código abierto, etc.
+
+## Apoya el Proyecto
+
+Si encuentras útil este proyecto y te gustaría apoyarlo, considera realizar alguna de las siguientes acciones:
+
+- Comparte el proyecto con tus amigos y colegas.
+- Contribuye al proyecto mediante pull requests.
+- Realiza una donación para ayudar a mantener y mejorar el proyecto.
+- Escribe una reseña o calificación positiva en la página del proyecto.
+
+¡Tu apoyo es muy importante y me motiva a seguir trabajando en el proyecto!
