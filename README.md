@@ -1,6 +1,6 @@
 # <span style="color:red; font-family:cursive, monospace;">TRG Python</span>
 
-<div style="margin:auto; width:300px">
+<div align="center" style="width:300px">
 
 ![Logo Python](assets/python.svg)
 
@@ -75,11 +75,14 @@
 <div style="color:red;font-weight:900;font-family:monospace;letter-spacing:23px;text-align:center;margin-top:23px">By TRG (2023)</div>
 </div>
 
-# Nombre del Proyecto
+# Kit TRG 1.0.0 (<a href="Python/Kit TRG 1.0.0/ventanas.py">Click</a>)
 
-![Logo del Proyecto](ruta/al/logo.png)
+<div align="center">
+  
+  ![Logo del Proyecto](assets/icon.ico)
+</div>
 
-Breve descripción del proyecto.
+Este nuevo proyecto, es un pequeño programa de pestañas ttk.Notebook, dentro hay dos pestañas, la principal es una calculadora básica y la segunda pestaña ayuda a obtener el área de un cuadrado, además de mostrar ilustracion de este, y mostrar las medidas en este.
 
 ## Funcionalidades
 
@@ -88,7 +91,47 @@ Breve descripción del proyecto.
 
 ## Capturas de Pantalla
 
-
+### Preview 1 Calculator
+<div align="center">
+  
+  ![Preview 1](assets/view_f1.png)
+  </div>
+  
+  ### Preview 2 Calculator
+  <div align="center">
+    
+  ![Preview 2](assets/view_f2.png)
+  </div>
+  
+  ### Preview 1 Area Square
+  <div align="center">
+      
+  ![Preview 3](assets/view_f3.png)
+  </div>
+  
+  ### Preview 2 Area Square
+  <div align="center">
+        
+  ![Preview 4](assets/view_f4.png)
+  </div>
+   
+   ### Preview 3 Area Square
+   <div align="center">
+          
+  ![Preview 5](assets/view_f5.png)
+  </div>
+  
+  ### Preview 4 Area Square
+  <div align="center">  
+  
+  ![Preview 6](assets/view_f6.png)
+  </div>
+  
+  ### Functionality
+  <div align="center">
+  
+  <img src="assets/Kit TRG 1.0.0.gif">
+</div>
 
 ## Instalación
 
