@@ -75,7 +75,7 @@
 <div style="color:red;font-weight:900;font-family:monospace;letter-spacing:23px;text-align:center;margin-top:23px">By TRG (2023)</div>
 </div>
 
-# Kit TRG 1.0.0 (<a href="Python/Kit TRG 1.0.0/ventanas.py">Click</a>)
+# Kit TRG 1.0.0 (<a href="Python/Kit TRG/ventanas.py">Click</a>)
 
 <div align="center">
   
