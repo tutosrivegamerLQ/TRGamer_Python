@@ -44,7 +44,7 @@
 
 <li>While. (<a href="Python/web-trg.py"><span style="color:#cc99ff;font-family:monospace">Click</span></a>)</li>
 
-<li>Gues Number. (<a href="Python/Guess Number/gamemain.py"><span style="color:#cc99ff; font-family:monospace">Click</span></a>)</li>
+<li>Gues Number. (<a href="Python/guessnumber/gamemain.py"><span style="color:#cc99ff; font-family:monospace">Click</span></a>)</li>
 </ul>
 </div>
 
