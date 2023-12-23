@@ -43,6 +43,8 @@
 <li>Saludar a alguien. (<a href="Python/tKinterr.py"><span style="color:#cc99ff;font-family:monospace">Click</span></a>)</li>
 
 <li>While. (<a href="Python/web-trg.py"><span style="color:#cc99ff;font-family:monospace">Click</span></a>)</li>
+
+<li>Gues Number. (<a href="Python/Guess Number/gamemain.py">)</li>
 </ul>
 </div>
 
