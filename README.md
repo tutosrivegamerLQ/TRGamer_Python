@@ -135,6 +135,10 @@ Este nuevo proyecto, es un pequeño programa de pestañas ttk.Notebook, dentro h
   <img src="assets/Kit TRG 1.0.0.gif">
 </div>
 
+  ### Preview windows.py
+  <div>
+    ![Preview 7](assets/qwerty-imageonline-imageonline.co-1862949.gif)
+  </div>
 ## Instalación
 
 Describe aquí los pasos para instalar y ejecutar el programa en el sistema del usuario.
