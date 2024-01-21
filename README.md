@@ -142,6 +142,13 @@ Este nuevo proyecto, es un pequeño programa de pestañas ttk.Notebook, dentro h
     Posiciona ventanas con ayuda de tkinter y este script.
     <img src="assets/qwerty-imageonline-imageonline.co-1862949.gif">
   </div>
+
+  ### Preview reloj.py
+  <div>
+    ## Un simple reloj, cada 5 segundos muestra en pantalla una frase, al igual que un calendario (del mes actual), obviamente la hora, además es minimalista.
+    
+    <img src="assets/ezgif-2-0ca9a1b481.gif">
+  </div>
 ## Instalación
 
 Describe aquí los pasos para instalar y ejecutar el programa en el sistema del usuario.
