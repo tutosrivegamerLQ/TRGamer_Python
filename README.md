@@ -137,7 +137,8 @@ Este nuevo proyecto, es un pequeño programa de pestañas ttk.Notebook, dentro h
 
   ### Preview windows.py
   <div>
-    ![Preview 7](assets/qwerty-imageonline-imageonline.co-1862949.gif)
+    Posiciona ventanas con ayuda de tkinter y este script.
+    <img src="assets/qwerty-imageonline-imageonline.co-1862949.gif">
   </div>
 ## Instalación
 
