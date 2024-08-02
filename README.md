@@ -47,6 +47,8 @@
 <li>Gues Number. (<a href="Python/guessnumber/gamemain.py"><span style="color:#cc99ff; font-family:monospace">Click</span></a>)</li>
 
 <li>Posicionate window Tkinter with this script. (<a href="Python/windows.py"><span style="color:#cc99ff; font-family:monospace">Click</span></a>)</li>
+
+<li>Calculadora Simple (POO-so-so) (Práctica). (<a href="Python/Calculadora/main.py"><span style="color:#cc99ff; font-family:monospace">Click</span></a>)</li>
 </ul>
 </div>
 
